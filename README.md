@@ -1,2 +1,2 @@
 # CheetSheet
-This repository contains a set of cheet sheets I use at work
+This repository contains a set of cheat sheets I use at work
